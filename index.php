@@ -1,3 +1,3 @@
 <?php
-echo 'Hola Git';
+echo 'Hola Git 2';
 ?>
